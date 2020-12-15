@@ -6,7 +6,7 @@ jobs:
       - image: circleci/python:3.7
 
     environment:
-      DEEPSOURCE_DSN: https://bf6e178c82fa4c409794ef9243c48ef5@deepsource.io
+      DEEPSOURCE_DSN: https://eeed38789414492cbd93bffe07b8b46b@deepsource.io
 
     working_directory: ~/repo
 
